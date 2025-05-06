@@ -83,4 +83,3 @@ test_data = np.array([
 test_df = pd.DataFrame([test_data], columns=X.columns)
 
 rf.predict(test_df)
-
