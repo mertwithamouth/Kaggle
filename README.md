@@ -1,2 +1,2 @@
-# Kaggle
-Kaggle Projects Directory
+# About Dataset
+The Advanced IoT Agriculture Dataset captures detailed physiological and morphological measurements of plants grown under two greenhouse settings (IoT‑enabled vs. traditional) at Tikrit University’s Agriculture Lab. Compiled by Mohammed Ismail Lifta (2023–2024) under the supervision of Prof. Wisam Dawood Abdullah, it comprises 30,000 records spanning 14 variables that quantify chlorophyll levels, growth rates, biomass (wet/dry weight), root metrics, and more, alongside a final categorical Class label.
